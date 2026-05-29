@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "data_tracked": false,
+    "description": "Converta dados em JSON para texto limpo e legível dentro do Bubble. Ideal para exibir respostas de APIs, formatar dados recebidos e transformar objetos JSON em conteúdo fácil de usar no app.",
+    "image": "//meta-q.cdn.bubble.io/f1778439689302x210821822836688480/Imagem%201%20gerada.png",
+    "license": "open_source",
+    "name": "JSON to Text Extract",
+    "platforms_new": "both",
+    "plugin_instructions": "1. Adicione o plugin ao seu app Bubble.\n2. Envie o JSON que deseja converter.\n3. Use o texto retornado em inputs, workflows, mensagens, logs ou elementos visuais do Bubble."
+}

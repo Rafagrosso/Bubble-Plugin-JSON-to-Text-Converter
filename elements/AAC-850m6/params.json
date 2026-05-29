@@ -1,0 +1,199 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 10,
+        "width": 10
+    },
+    "display": "Json to Text",
+    "fields": {
+        "AAD": {
+            "caption": "field_1_json",
+            "editor": "DynamicValue",
+            "name": "field_1_json",
+            "optional": true,
+            "rank": 1,
+            "value": "text"
+        },
+        "AAE": {
+            "caption": "field_2_json",
+            "editor": "DynamicValue",
+            "name": "field_2_json",
+            "optional": true,
+            "rank": 2,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "field_3_json",
+            "editor": "DynamicValue",
+            "name": "field_3_json",
+            "optional": true,
+            "rank": 3,
+            "value": "text"
+        },
+        "AAG": {
+            "caption": "field_4_json",
+            "editor": "DynamicValue",
+            "name": "field_4_json",
+            "optional": true,
+            "rank": 4,
+            "value": "text"
+        },
+        "AAH": {
+            "caption": "field_6_json",
+            "editor": "DynamicValue",
+            "name": "field_6_json",
+            "optional": true,
+            "rank": 6,
+            "value": "text"
+        },
+        "AAI": {
+            "caption": "field_5_json",
+            "editor": "DynamicValue",
+            "name": "field_5_json",
+            "optional": true,
+            "rank": 5,
+            "value": "text"
+        },
+        "AAJ": {
+            "caption": "field_7_json",
+            "editor": "DynamicValue",
+            "name": "field_7_json",
+            "optional": true,
+            "rank": 7,
+            "value": "text"
+        },
+        "AAK": {
+            "caption": "field_8_json",
+            "editor": "DynamicValue",
+            "name": "field_8_json",
+            "optional": true,
+            "rank": 8,
+            "value": "text"
+        },
+        "AAL": {
+            "caption": "field_9_json",
+            "editor": "DynamicValue",
+            "name": "field_9_json",
+            "optional": true,
+            "rank": 9,
+            "value": "text"
+        },
+        "AAM": {
+            "caption": "field_10_json",
+            "editor": "DynamicValue",
+            "name": "field_10_json",
+            "optional": true,
+            "rank": 10,
+            "value": "text"
+        },
+        "AAZ": {
+            "caption": "Json_data",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "json",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-android-textsms",
+    "platform_type": "web",
+    "states": {
+        "AAN": {
+            "caption": "field_1",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "field_1",
+            "value": "text"
+        },
+        "AAO": {
+            "caption": "field_2",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "field_2",
+            "value": "text"
+        },
+        "AAP": {
+            "caption": "field_3",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "field_3",
+            "value": "text"
+        },
+        "AAQ": {
+            "caption": "field_4",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "field_4",
+            "value": "text"
+        },
+        "AAR": {
+            "caption": "field_5",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "field_5",
+            "value": "text"
+        },
+        "AAS": {
+            "caption": "field_6",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "field_6",
+            "value": "text"
+        },
+        "AAT": {
+            "caption": "field_7",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "field_7",
+            "value": "text"
+        },
+        "AAU": {
+            "caption": "field_8",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "field_8",
+            "value": "text"
+        },
+        "AAV": {
+            "caption": "field_9",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "field_9",
+            "value": "text"
+        },
+        "AAW": {
+            "caption": "field_10",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "field_10",
+            "value": "text"
+        },
+        "AAX": {
+            "caption": "success",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "success",
+            "value": "boolean"
+        },
+        "AAY": {
+            "caption": "error_message",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "error_message",
+            "value": "text"
+        }
+    }
+}
