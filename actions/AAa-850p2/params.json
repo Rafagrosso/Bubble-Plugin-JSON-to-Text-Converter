@@ -1,0 +1,171 @@
+{
+    "category": "plugins",
+    "display": "JSON to Text (SS)",
+    "fields": {
+        "AAb": {
+            "caption": "json",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "json",
+            "optional": false,
+            "rank": 0,
+            "value": "text"
+        },
+        "AAc": {
+            "caption": "field_1_json",
+            "editor": "DynamicValue",
+            "name": "field_1_json",
+            "optional": true,
+            "rank": 1,
+            "value": "text"
+        },
+        "AAd": {
+            "caption": "field_2_json",
+            "editor": "DynamicValue",
+            "name": "field_2_json",
+            "optional": true,
+            "rank": 2,
+            "value": "text"
+        },
+        "AAe": {
+            "caption": "field_3_json",
+            "editor": "DynamicValue",
+            "name": "field_3_json",
+            "optional": true,
+            "rank": 3,
+            "value": "text"
+        },
+        "AAf": {
+            "caption": "field_4_json",
+            "editor": "DynamicValue",
+            "name": "field_4_json",
+            "optional": true,
+            "rank": 4,
+            "value": "text"
+        },
+        "AAg": {
+            "caption": "field_5_json",
+            "editor": "DynamicValue",
+            "name": "field_5_json",
+            "optional": true,
+            "rank": 5,
+            "value": "text"
+        },
+        "AAh": {
+            "caption": "field_6_json",
+            "editor": "DynamicValue",
+            "name": "field_6_json",
+            "optional": true,
+            "rank": 6,
+            "value": "text"
+        },
+        "AAi": {
+            "caption": "field_7_json",
+            "editor": "DynamicValue",
+            "name": "field_7_json",
+            "optional": true,
+            "rank": 7,
+            "value": "text"
+        },
+        "AAj": {
+            "caption": "field_8_json",
+            "editor": "DynamicValue",
+            "name": "field_8_json",
+            "optional": true,
+            "rank": 8,
+            "value": "text"
+        },
+        "AAk": {
+            "caption": "field_9_json",
+            "editor": "DynamicValue",
+            "name": "field_9_json",
+            "optional": true,
+            "rank": 9,
+            "value": "text"
+        },
+        "AAl": {
+            "caption": "field_10_json",
+            "editor": "DynamicValue",
+            "name": "field_10_json",
+            "optional": true,
+            "rank": 10,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAm": {
+            "caption": "success",
+            "name": "success",
+            "rank": 0,
+            "value": "boolean"
+        },
+        "AAn": {
+            "caption": "error_message",
+            "name": "error_message",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAo": {
+            "caption": "field_1",
+            "name": "field_1",
+            "rank": 2,
+            "value": "text"
+        },
+        "AAp": {
+            "caption": "field_2",
+            "name": "field_2",
+            "rank": 3,
+            "value": "text"
+        },
+        "AAq": {
+            "caption": "field_3",
+            "name": "field_3",
+            "rank": 4,
+            "value": "text"
+        },
+        "AAr": {
+            "caption": "field_4",
+            "name": "field_4",
+            "rank": 5,
+            "value": "text"
+        },
+        "AAs": {
+            "caption": "field_5",
+            "name": "field_5",
+            "rank": 6,
+            "value": "text"
+        },
+        "AAt": {
+            "caption": "field_6",
+            "name": "field_6",
+            "rank": 7,
+            "value": "text"
+        },
+        "AAu": {
+            "caption": "field_7",
+            "name": "field_7",
+            "rank": 8,
+            "value": "text"
+        },
+        "AAv": {
+            "caption": "field_8",
+            "name": "field_8",
+            "rank": 9,
+            "value": "text"
+        },
+        "AAw": {
+            "caption": "field_9",
+            "name": "field_9",
+            "rank": 10,
+            "value": "text"
+        },
+        "AAx": {
+            "caption": "field_10",
+            "name": "field_10",
+            "rank": 11,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": false
+}

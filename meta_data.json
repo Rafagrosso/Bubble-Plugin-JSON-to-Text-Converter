@@ -8,5 +8,6 @@
     "license": "open_source",
     "name": "JSON to Text Extract",
     "platforms_new": "both",
-    "plugin_instructions": "1. Adicione o plugin ao seu app Bubble.\n2. Envie o JSON que deseja converter.\n3. Use o texto retornado em inputs, workflows, mensagens, logs ou elementos visuais do Bubble."
+    "plugin_instructions": "1. Adicione o plugin ao seu app Bubble.\n2. Envie o JSON que deseja converter.\n3. Use o texto retornado em inputs, workflows, mensagens, logs ou elementos visuais do Bubble.",
+    "sa_node_version": 22
 }
